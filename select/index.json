@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ワインディングロード",
+  "base_artist": "Novelbright",
+  "createdAt": "2026-02-20T13:18:52.818058Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ワインディングロード",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/01_ワインディングロード_Novelbright.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ワインディングロード",
+      "artist": "Novelbright",
+      "has_synced": false,
+      "path": "select/pl_01_ワインディングロード_Novelbright.txt"
+    }
+  ]
+}
